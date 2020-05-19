@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## makeCacheMatrix is a function which creates a special "matrix" object that can
 ## cache its inverse for the input (which is an invertible square matrix)
 
